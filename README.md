@@ -4,31 +4,51 @@
 
 ## Background & Theory
 ### Requirements
+#### Functional
 | Category | Requirement | Detail |
 | -------- | ----------- | ------ |
 | Sensing |
-| Power |
-| Safety |
-| EMI |
-| Size |
-| Aesthetic |
 | Processing |
 | Communication |
-| Displays |
 | Timing | (latency / like garmin async health update)
-| Firmware |
+| Data Management |
+
+#### Electrical
+| Category | Requirement | Detail |
+| -------- | ----------- | ------ |
+| Power |
+| EMI/EMC |
+
+#### Physical
+| Category | Requirement | Detail |
+| -------- | ----------- | ------ |
+| Size |
+| Aesthetic |
+| UX/UI |
 | Thermal Management |
 | Mechanical Design |
 | Environmental Conditions |
+
+#### Operational
+| Category | Requirement | Detail |
+| -------- | ----------- | ------ |
+| Safety |
+| Firmware |
 | Reliability |
+| Security |
+
+#### Development
+| Category | Requirement | Detail |
+| -------- | ----------- | ------ |
 | Testability / Debugging |
 | Manufacturability |
 | Maintainability |
-| Security |
+
+#### Commercial
+| Category | Requirement | Detail |
+| -------- | ----------- | ------ |
 | Cost |
 | Compliance |
-| User Interaction |
-| Data Management |
 | Lifecycle |
 
 ## System Design & Methodology
